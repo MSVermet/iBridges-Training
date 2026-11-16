@@ -128,7 +128,7 @@ print(irods_path.meta)
 ```
 
 or
-```
+```python
 print(obj_meta)
 ```
 
